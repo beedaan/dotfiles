@@ -8,7 +8,7 @@ antigen bundle extract
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-antigen theme robbyrussell
+antigen theme arrow
 
 # Tell antigen that you're done.
 antigen apply
