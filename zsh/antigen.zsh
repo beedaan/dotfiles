@@ -3,6 +3,7 @@ source $ZSH/zsh/antigen/antigen.zsh
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
+antigen bundle npm
 antigen bundle git
 antigen bundle extract
 antigen bundle zsh-users/zsh-syntax-highlighting
