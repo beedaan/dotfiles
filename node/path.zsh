@@ -1,0 +1,1 @@
+export NVM_DIR="$ZSH/node/nvm"
