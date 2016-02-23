@@ -13,3 +13,8 @@ if test ! $(which yo)
 then
 	npm install -g yo
 fi
+
+if test ! $(which gulp)
+then
+	npm install -g gulp
+fi
