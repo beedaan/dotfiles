@@ -4,6 +4,7 @@ source $ZSH/zsh/antigen/antigen.zsh
 antigen use oh-my-zsh
 
 antigen bundle npm
+antigen bundle gem
 antigen bundle git
 antigen bundle docker
 antigen bundle extract
