@@ -4,6 +4,8 @@ tap 'caskroom/cask'
 tap 'homebrew/bundle'
 
 brew 'grc'
+brew 'imagemagick'
+brew 'mongodb'
 
 cask '1password'
 cask 'alfred'
