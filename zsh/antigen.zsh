@@ -3,11 +3,13 @@ source $ZSH/zsh/antigen/antigen.zsh
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
-antigen bundle npm
-antigen bundle gem
-antigen bundle git
+antigen bundle brew
+antigen bundle bundler
 antigen bundle docker
 antigen bundle extract
+antigen bundle gem
+antigen bundle git
+antigen bundle npm
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
