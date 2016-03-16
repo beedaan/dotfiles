@@ -9,7 +9,9 @@ antigen bundle docker
 antigen bundle extract
 antigen bundle gem
 antigen bundle git
+antigen bundle mvn
 antigen bundle npm
+antigen bundle osx
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
