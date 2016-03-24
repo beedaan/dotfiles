@@ -9,6 +9,7 @@ brew 'mongodb'
 
 cask '1password'
 cask 'alfred'
+cask 'atext'
 cask 'dash'
 cask 'disk-inventory-x'
 cask 'dropbox'
