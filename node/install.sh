@@ -9,6 +9,11 @@ then
 	npm install -g trash-cli
 fi
 
+if test ! $(which internal-ip)
+then
+	npm install -g internal-ip
+fi
+
 if test ! $(which gulp)
 then
 	npm install -g gulp
