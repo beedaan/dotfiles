@@ -12,6 +12,7 @@ antigen bundle git
 antigen bundle mvn
 antigen bundle npm
 antigen bundle osx
+antigen bundle vagrant
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.

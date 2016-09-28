@@ -8,7 +8,6 @@ brew 'imagemagick'
 brew 'mongodb'
 
 cask '1password'
-cask 'adobe-reader'
 cask 'alfred'
 cask 'atext'
 cask 'dash'
