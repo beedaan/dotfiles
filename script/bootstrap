@@ -148,7 +148,6 @@ then
   then
     success "dependencies installed"
   else
-    info "fail"
     fail "error installing dependencies"
   fi
 fi
