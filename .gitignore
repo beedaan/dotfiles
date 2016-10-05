@@ -1,2 +1,4 @@
 git/gitconfig.symlink
 lifejourney/
+.DS_Store
+.idea/

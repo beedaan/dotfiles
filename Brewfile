@@ -4,6 +4,8 @@ tap 'homebrew/bundle'
 
 brew 'grc'
 brew 'imagemagick'
+brew 'jenv'
+brew 'maven'
 brew 'mongodb'
 
 cask '1password'
