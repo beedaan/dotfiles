@@ -35,3 +35,5 @@
 	name = Brendan Heussler
 	email = brendan@lifejourney.us
 	signingkey = 36D95E5B
+[commit]
+	gpgsign = true
