@@ -15,7 +15,7 @@
         branch = auto
         ui = true
 [core]
-        excludesfile = ~/.gitignore
+	excludesfile = /Users/bheussler/.gitignore_global
         editor = vim
 [apply]
         whitespace = nowarn
@@ -34,3 +34,4 @@
 [user]
 	name = Brendan Heussler
 	email = brendan@lifejourney.us
+	signingkey = 36D95E5B
