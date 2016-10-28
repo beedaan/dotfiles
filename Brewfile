@@ -3,6 +3,7 @@ cask_args appdir: '/Applications'
 tap 'homebrew/bundle'
 
 brew 'android-sdk'
+brew 'gnupg'
 brew 'gpg-agent'
 brew 'grc'
 brew 'imagemagick'
