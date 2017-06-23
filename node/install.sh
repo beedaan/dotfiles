@@ -4,6 +4,12 @@ then
 	nvm install node
 fi
 
+if test ! $(which avn)
+then
+	npm install -g avn avn-nvm avn-n
+	avn setup
+fi
+
 if test ! $(which trash)
 then
 	npm install -g trash-cli
@@ -33,3 +39,9 @@ if test ! $(which karma)
 then
 	npm install -g karma-cli
 fi
+
+if test ! $(which ncu)
+then
+	npm install -g npm-check-updates
+fi
+
