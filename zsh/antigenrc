@@ -1,6 +1,7 @@
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
+# Remember to run `antigen reset`
 antigen bundles <<EOBUNDLES
 	brew
 	bundler
@@ -11,6 +12,7 @@ antigen bundles <<EOBUNDLES
 	mvn
 	osx
 	vagrant
+	z
 EOBUNDLES
 
 # Syntax highlighting bundle.

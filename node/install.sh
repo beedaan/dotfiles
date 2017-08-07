@@ -45,3 +45,7 @@ then
 	npm install -g npm-check-updates
 fi
 
+if test ! $(which yarn)
+then
+	npm install -g yarn
+fi
