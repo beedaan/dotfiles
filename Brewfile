@@ -17,6 +17,7 @@ brew 'tree'
 
 cask '1password'
 cask 'alfred'
+cask 'cheatsheet'
 cask 'coconutbattery'
 cask 'dash'
 cask 'disk-inventory-x'
