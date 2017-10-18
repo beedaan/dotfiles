@@ -1,0 +1,1 @@
+export ANDROID_HOME=/Users/bheussler/Library/Android/sdk
