@@ -4,6 +4,11 @@ then
 	nvm install node
 fi
 
+if test ! $(which aglio)
+then
+	npm install -g aglio
+fi
+
 if test ! $(which avn)
 then
 	npm install -g avn avn-nvm avn-n
