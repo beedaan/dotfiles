@@ -1,1 +1,2 @@
 setopt rmstarsilent
+setopt extendedglob
