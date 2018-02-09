@@ -13,6 +13,7 @@ brew 'lnav'
 brew 'maven'
 brew 'mongodb'
 brew 'pinentry-mac'
+brew 'phantomjs'
 brew 'sift'
 brew 'tree'
 
