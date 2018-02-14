@@ -16,6 +16,7 @@ brew 'pinentry-mac'
 brew 'phantomjs'
 brew 'sift'
 brew 'tree'
+brew 'tmux'
 
 cask '1password'
 cask 'alfred'
