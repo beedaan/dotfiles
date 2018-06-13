@@ -3,3 +3,4 @@ lifejourney/
 .DS_Store
 .idea/
 zsh/antigenrc.zwc
+cache/
