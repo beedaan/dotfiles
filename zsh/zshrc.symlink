@@ -25,6 +25,10 @@ do
   source $file
 done
 
+# scripts from auto installation
+[[ -s "$HOME/.avn/bin/avn.sh" ]] && source "$HOME/.avn/bin/avn.sh" # load avn
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
 # initialize autocomplete here, otherwise functions won't be loaded
 autoload -U compinit
 compinit
@@ -36,4 +40,3 @@ do
 done
 
 unset config_files
-[[ -s "$HOME/.avn/bin/avn.sh" ]] && source "$HOME/.avn/bin/avn.sh" # load avn

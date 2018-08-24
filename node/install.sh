@@ -25,11 +25,6 @@ then
 	npm install -g internal-ip
 fi
 
-if test ! $(which gulp)
-then
-	npm install -g gulp
-fi
-
 if test ! $(which bower)
 then
 	npm install -g bower
