@@ -42,4 +42,4 @@
 [commit]
 	gpgsign = false
 [gpg]
-	program = gpg2
+	program = gpg

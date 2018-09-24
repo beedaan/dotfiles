@@ -35,11 +35,6 @@ then
 	npm install -g yo
 fi
 
-if test ! $(which karma)
-then
-	npm install -g karma-cli
-fi
-
 if test ! $(which ncu)
 then
 	npm install -g npm-check-updates
