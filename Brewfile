@@ -21,6 +21,7 @@ brew 'sift'
 brew 'tldr'
 brew 'tree'
 brew 'tmux'
+brew 'youtube-dl'
 
 cask '1password'
 cask 'alfred'
