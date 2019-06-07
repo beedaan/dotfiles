@@ -25,12 +25,6 @@ do
   source $file
 done
 
-# Must source nvm after system/_path.zsh is sourced
-# nvm must be before /usr/local/bin in PATH
-export NVM_DIR="$ZSH/node/nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # load nvm
-[[ -s "$HOME/.avn/bin/avn.sh" ]] && source "$HOME/.avn/bin/avn.sh" # load avn
-
 # initialize autocomplete here, otherwise functions won't be loaded
 autoload -U compinit
 compinit

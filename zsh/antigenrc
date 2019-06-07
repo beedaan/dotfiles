@@ -1,6 +1,10 @@
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
+# Load nvm first, in case other plugins use node
+export NVM_AUTO_USE=true
+antigen bundle lukechilds/zsh-nvm
+
 # Remember to run `antigen reset`
 antigen bundles <<EOBUNDLES
 	brew
