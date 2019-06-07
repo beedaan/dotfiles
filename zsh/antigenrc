@@ -2,6 +2,7 @@
 antigen use oh-my-zsh
 
 # Load nvm first, in case other plugins use node
+export NVM_LAZY_LOAD=true
 export NVM_AUTO_USE=true
 antigen bundle lukechilds/zsh-nvm
 
