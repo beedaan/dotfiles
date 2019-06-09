@@ -16,6 +16,7 @@ antigen bundles <<EOBUNDLES
 	git
 	mvn
 	osx
+	thefuck
 	tmux
 	vagrant
 	z
