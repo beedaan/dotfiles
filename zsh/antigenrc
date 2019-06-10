@@ -10,12 +10,16 @@ antigen bundle lukechilds/zsh-nvm
 antigen bundles <<EOBUNDLES
 	brew
 	bundler
-	docker
+	capistrano
 	extract
 	gem
 	git
+	git-extras
 	mvn
-	osx
+	npm
+	perms
+	redis-cli
+	sublime
 	thefuck
 	tmux
 	vagrant
