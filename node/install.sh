@@ -1,1 +1,0 @@
-npm install -g @bchatard/alfred-jetbrains
