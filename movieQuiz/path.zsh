@@ -1,0 +1,1 @@
+export MOVIE_QUIZ_HOME='/Users/bheussler/projects/movie-quiz'
