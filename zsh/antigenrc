@@ -11,6 +11,8 @@ antigen bundles <<EOBUNDLES
 	brew
 	bundler
 	capistrano
+	docker
+	docker-compose
 	extract
 	gem
 	git
