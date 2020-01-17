@@ -29,6 +29,7 @@ antigen bundles <<EOBUNDLES
 	z
 EOBUNDLES
 
+antigen bundle jhipster/jhipster-oh-my-zsh-plugin
 antigen bundle andrewferrier/fzf-z
 antigen bundle zsh-users/zsh-autosuggestions
 antigen bundle zsh-users/zsh-syntax-highlighting
